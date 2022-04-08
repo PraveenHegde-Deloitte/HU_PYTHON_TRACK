@@ -1,10 +1,10 @@
 #changing city Name
 
 sampleDict = {
-  "name": "Kelly",
+  "name": "praveen",
   "age":25,
   "salary": 8000,
-  "city": "New york"
+  "city": "Sirsi"
 }
 v=sampleDict['city']
 del sampleDict['city']
